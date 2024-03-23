@@ -17,7 +17,7 @@
 - `<sadick>` branch: Contains the work done by [Sadick](https://github.com/Sadick14)
 - `<web3GroupTwo>` branch: Contains the work done by [Ernest](https://github.com/Akoto-Ernest)
 - `<alex>` branch: Contains the work done by [Alex](https://github.com/Zormelo-Alex)
-- `<>etornam` branch: Contains the work done by [Etornam](https://github.com/etornamGrives)
+- `<etornam>` branch: Contains the work done by [Etornam](https://github.com/etornamGrives)
   
 
 ## Technologies Used
