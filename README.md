@@ -1,5 +1,5 @@
 # HTU_Group_Two
-# HTU_Group_One
+
 
 ### Web3 BUIDL ARBITRUM DEVELOPER WORKSHOP `HO TECHNICAL UNIVERSITY GROUP TWO` 
 ### A Two day packed workshop to onboard newbies to web3 development by teaching them how to build  smart contracts , deploying and verifying onchain, and connecting the smart contract to a frontend 
